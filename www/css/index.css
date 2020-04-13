@@ -1,0 +1,23 @@
+ons-page{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#loginForm{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: auto;
+}
+.login-progress{
+    display: none;
+}
+.home-select-action{
+    text-align: center;
+}
+.home-select-action ons-button{
+    margin-bottom: 15px;
+}
+.home-select-action ons-button:last-child{
+    margin-bottom: 0;
+}
